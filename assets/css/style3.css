@@ -1,0 +1,27 @@
+
+h1{
+    text-align: center;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    margin: 4px 25px;
+}
+
+
+.card img{
+    height: 200px;
+    width: 200px;
+}
+.mensaje{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
